@@ -1,5 +1,5 @@
 #!/usr/bin/perl -w
-# Name:        levenstein.pl
+# Name:        levenshtein.pl
 # Description: Compute size of a word's "social network" based on Levenshtein Distance
 # Author:      Simon Morton
 use strict;
