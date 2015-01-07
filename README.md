@@ -1,4 +1,4 @@
 CodeEval
 ========
 
-CodeEval challenge submissions
+CodeEval challenge submissions.
